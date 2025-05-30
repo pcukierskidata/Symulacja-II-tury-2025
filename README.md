@@ -1,6 +1,7 @@
 # Symulacja II tury wyborów prezydenckich 2025
 
 Link do pobrania projektu z OneDrive: https://1drv.ms/u/c/5acb985c73202279/EWie-KcwuFNNovYSru2g53IB7jk1FnqcwaeQZtiyK4vHcw?e=aKFw7r
+Link do danych źródłowych ze strony PKW: https://wybory.gov.pl/prezydent2025/data/csv/wyniki_gl_na_kandydatow_po_gminach_csv.1747645331.zip
 
 📊 Ten projekt to mój autorski dashboard stworzony w Microsoft Power BI Desktop, który umożliwia symulację wyników II tury wyborów prezydenckich na podstawie rzeczywistych danych z I tury oraz założonych przepływów głosów między kandydatami.
 
