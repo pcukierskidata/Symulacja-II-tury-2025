@@ -3,8 +3,8 @@
 📊 Ten projekt to mój autorski dashboard stworzony w Microsoft Power BI Desktop, który umożliwia symulację wyników II tury wyborów prezydenckich na podstawie rzeczywistych danych z I tury oraz założonych przepływów głosów między kandydatami.
 
 ## Co znajdziesz w tym repozytorium?  
-- 📁 Plik projektu Power BI (`.pbix`) z modelem danych i dashboardem  
-- 📊 Dane źródłowe (wyniki I tury z PKW w formacie „one big table”)  
+- 📁 Link do pliku projektu Power BI (`.pbix`) z modelem danych i dashboardem  
+- 📊 Link do danych źródłowych (wyniki I tury z PKW w formacie „one big table”)  
 - 🧮 Przykładowe miary DAX do obliczania prognozowanych wyników  
 - 📖 Instrukcje dotyczące wykorzystania i możliwości konfiguracji symulacji (frekwencja, przepływy elektoratów, nowi wyborcy)  
 - 🖼️ Zrzuty ekranu pokazujące interfejs i przykładowe wizualizacje  
@@ -30,12 +30,12 @@
 
 📊 This project is my original dashboard created in Microsoft Power BI Desktop, enabling simulation of the second round of presidential election results based on real data from the first round and assumed vote flows between candidates.
 
-## What will you find in this repository?  
-- 📁 Power BI project file (`.pbix`) with data model and dashboard  
-- 📊 Source data (first round results from PKW in a “one big table” format)  
-- 🧮 Sample DAX measures to calculate forecasted results  
-- 📖 Instructions for usage and configuration of the simulation (turnout, voter flows, new voters)  
-- 🖼️ Screenshots showing the interface and sample visualizations  
+## What you’ll find in this repository:
+📁 Link to the Power BI project file (.pbix) containing the data model and dashboard
+📊 Link to the source data (1st round election results from PKW in a “one big table” format)
+🧮 Sample DAX measures for calculating projected results
+📖 Instructions on usage and configuration options for the simulation (turnout, voter flows, new voters)
+🖼️ Screenshots showcasing the interface and example visualizations
 
 ## Features  
 - 📈 Modeling second round results based on first round data  
