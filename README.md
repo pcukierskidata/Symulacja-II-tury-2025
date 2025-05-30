@@ -82,7 +82,7 @@ https://wybory.gov.pl/prezydent2025/data/csv/wyniki_gl_na_kandydatow_po_gminach_
 2. 🎛️ Browse the dashboard and experiment with vote flow and turnout settings  
 3. 📊 Analyze simulated results and compare with actual data  
 
-Brief description of the created dashboard
+## Brief description of the created dashboard
 At the top of the dashboard, there are two cards displaying the currently calculated result for each candidate.
 The border of the card for the candidate with the higher result is colored blue or orange accordingly.
 Below, there is a box showing the lead margin of the leading candidate.
