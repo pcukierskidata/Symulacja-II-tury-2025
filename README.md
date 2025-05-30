@@ -29,6 +29,14 @@ Link do danych źródłowych ze strony PKW: https://wybory.gov.pl/prezydent2025/
 2. 🎛️ Przeglądaj dashboard i eksperymentuj z ustawieniami przepływów oraz frekwencji  
 3. 📊 Analizuj symulowane wyniki i porównuj z rzeczywistymi danymi
 
+## Krótki opis stworzonego dashboardu
+
+Na górze dashboradu znajdują się dwie karty, które wyświetlają aktualnie obliczony wynik każdego z kandydatów.
+Obramowanie karty kandydata, który ma większy wynik ma odpowiednio niebieski lub pomarańczowy kolor.
+Poniżej znajduje sie ramka, w której wyświetla sie informacja o przewadze danego kandydata.
+
+![Dashboard preview](screenshots/1.png)
+
 ------------------------------------------------------------------------------------------------------------------------
 # Simulation of the 2025 Presidential Election Second Round
 
