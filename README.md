@@ -51,7 +51,9 @@ w I turze wyborów wraz z ustawieniem, jaki procent tych głosów przepłynie do
 
 ## Historia zmian
 21-30.05.2025 r. - utworzenie dashboardu "Predykcja wyników"
-02.06.2025 r. - utworzenie tabeli "Fakt_Glosy_II_Tura" na podstawie oficjalnych wyników PKW, rozpoczęcie pracy nad dashboardem "Wyniki II tury"
+
+02.06.2025 r. - utworzenie tabeli "Fakt_Glosy_II_Tura" na podstawie oficjalnych wyników PKW, rozpoczęcie pracy nad dashboardem "Wyniki II tury",
+który będzie prezentować dane dotyczące wyników II tury wyborów prezydenckich
 
 ------------------------------------------------------------------------------------------------------------------------
 # Simulation of the 2025 Presidential Election Second Round
@@ -104,5 +106,6 @@ At the bottom of the dashboard, there is an option to include votes from new vot
 
 ## Changes history
 May 21–30, 2025 – Created the "Prediction of Results" dashboard
+
 June 2, 2025 – Created the "Fact_Votes_Second_Round" table based on official PKW results; began work on the "Second Round Results" dashboard
 
