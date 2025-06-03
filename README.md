@@ -1,6 +1,6 @@
 # Symulacja II tury wyborów prezydenckich 2025
 
-Link do pobrania projektu z OneDrive: https://1drv.ms/u/c/5acb985c73202279/EWie-KcwuFNNovYSru2g53IB7jk1FnqcwaeQZtiyK4vHcw?e=aKFw7r
+Link do pobrania projektu z OneDrive: https://1drv.ms/u/c/5acb985c73202279/EcNqKvGdO2BJsA5bPKBsGDkBZ0bnC0oLnG5bIaC2BCJCaQ?e=nURtDn
 
 Link do danych źródłowych ze strony PKW: https://wybory.gov.pl/prezydent2025/data/csv/wyniki_gl_na_kandydatow_po_gminach_csv.1747645331.zip
 
