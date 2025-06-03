@@ -18,11 +18,11 @@ Link do danych źródłowych ze strony PKW: https://wybory.gov.pl/prezydent2025/
 - 🔄 Możliwość modyfikacji przepływów wyborców między kandydatami  
 - ✅ Uwzględnienie frekwencji wśród elektoratów  
 - ➕ Dodanie nowych wyborców i ich rozkład głosów  
-- 🎛️ Interaktywne wizualizacje pozwalające eksperymentować z różnymi scenariuszami  
+- 🎛️ Interaktywne wizualizacje pozwalające eksperymentować z różnymi scenariuszami
+- 📈 Wyświetlenie wyników II tury wyborów z możliwością filtrowania po województwach, powiatach, gminach
 
 ## 🛠️ Co do naprawy przede mną? 
 - ⚠️ Można ustawić 100% przepływu głosów dla obu kandydatów jednocześnie, co nie ma sensu w rzeczywistych scenariuszach.  
-- 🔧 Suwak liczby nowych wyborców (0–10 mln) jest mało wydajny i nie udało mi się go jeszcze usprawnić.  
 
 ## Jak korzystać?  
 1. 📂 Otwórz plik `.pbix` w Power BI Desktop  
@@ -54,6 +54,9 @@ w I turze wyborów wraz z ustawieniem, jaki procent tych głosów przepłynie do
 
 02.06.2025 r. - utworzenie tabeli "Fakt_Glosy_II_Tura" na podstawie oficjalnych wyników PKW, rozpoczęcie pracy nad dashboardem "Wyniki II tury",
 który będzie prezentować dane dotyczące wyników II tury wyborów prezydenckich
+
+03.06.2025 r. - dodanie na dashboardzie "Wyniki II tury" wykresu słupkowego przedstawiającego wyniki II tury. 
+Dodanie filtrowania wyników po województwach, powiatach, gminach. 
 
 ------------------------------------------------------------------------------------------------------------------------
 # Simulation of the 2025 Presidential Election Second Round
@@ -108,4 +111,7 @@ At the bottom of the dashboard, there is an option to include votes from new vot
 May 21–30, 2025 – Created the "Prediction of Results" dashboard
 
 June 2, 2025 – Created the "Fact_Votes_Second_Round" table based on official PKW results; began work on the "Second Round Results" dashboard
+
+June 3, 2025 – Added a bar chart to the "Second Round Results" dashboard, presenting the results of the second round.
+Added filtering of results by voivodeships, counties, and municipalities.
 
