@@ -1,6 +1,6 @@
 # Symulacja II tury wyborów prezydenckich 2025
 
-Link do pobrania projektu z OneDrive: https://1drv.ms/u/c/5acb985c73202279/EcNqKvGdO2BJsA5bPKBsGDkBZ0bnC0oLnG5bIaC2BCJCaQ?e=nURtDn
+Link do pobrania projektu z OneDrive: https://1drv.ms/u/c/5acb985c73202279/EVlbtFpIWMBPoOeYEk7Jss8Bmb_sUf9J28Iod-6o8Xvnxg?e=uspFpn
 
 Link do danych źródłowych ze strony PKW: https://wybory.gov.pl/prezydent2025/data/csv/wyniki_gl_na_kandydatow_po_gminach_csv.1747645331.zip
 
@@ -55,13 +55,18 @@ w I turze wyborów wraz z ustawieniem, jaki procent tych głosów przepłynie do
 02.06.2025 r. - utworzenie tabeli "Fakt_Glosy_II_Tura" na podstawie oficjalnych wyników PKW, rozpoczęcie pracy nad dashboardem "Wyniki II tury",
 który będzie prezentować dane dotyczące wyników II tury wyborów prezydenckich
 
-03.06.2025 r. - dodanie na dashboardzie "Wyniki II tury" wykresu słupkowego przedstawiającego wyniki II tury. 
+03.06.2025 r. - rozwiązanie problemu z komisjami z zagranicy, które były umieszczone jako gminy bez przypisanego odpowiedniego
+identyfikatora, przez co nie można było utworzyć relacji między tabelami "Fakt_Glosy_II_Tura" a "Wymiar_Komisje". 
+Dodanie na dashboardzie "Wyniki II tury" wykresu słupkowego przedstawiającego wyniki II tury. 
 Dodanie filtrowania wyników po województwach, powiatach, gminach. 
+
+04.06.2025 r. - dodanie dynamicznego opisu na dashboardzie z wynikami II tury, który opisuje, który kandydat wygrał
+w danej lokalizacji wraz z jego przewagą procentową
 
 ------------------------------------------------------------------------------------------------------------------------
 # Simulation of the 2025 Presidential Election Second Round
 
-Download link to the project from OneDrive: https://1drv.ms/u/c/5acb985c73202279/EWie-KcwuFNNovYSru2g53IB7jk1FnqcwaeQZtiyK4vHcw?e=aKFw7r
+Download link to the project from OneDrive: https://1drv.ms/u/c/5acb985c73202279/EVlbtFpIWMBPoOeYEk7Jss8Bmb_sUf9J28Iod-6o8Xvnxg?e=uspFpn
 
 Link to the source data from the PKW website:
 https://wybory.gov.pl/prezydent2025/data/csv/wyniki_gl_na_kandydatow_po_gminach_csv.1747645331.zip
@@ -112,6 +117,9 @@ May 21–30, 2025 – Created the "Prediction of Results" dashboard
 
 June 2, 2025 – Created the "Fact_Votes_Second_Round" table based on official PKW results; began work on the "Second Round Results" dashboard
 
-June 3, 2025 – Added a bar chart to the "Second Round Results" dashboard, presenting the results of the second round.
-Added filtering of results by voivodeships, counties, and municipalities.
+June 3, 2025 – Resolved the issue with foreign commissions that were listed as municipalities without an assigned identifier, which prevented establishing a relationship between the "Fakt_Glosy_II_Tura" and "Wymiar_Komisje" tables.
+Added a bar chart to the "Second Round Results" dashboard showing the results of the second round.
+Implemented filtering of results by voivodeship, county, and municipality.
+
+June 4, 2025 – Added a dynamic description on the second round results dashboard, indicating which candidate won in a given location along with their percentage lead.
 
