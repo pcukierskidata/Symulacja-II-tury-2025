@@ -49,6 +49,13 @@ w I turze wyborów wraz z ustawieniem, jaki procent tych głosów przepłynie do
 
 ![Dashboard preview](3.png)
 
+Na karcie "Wyniki II tura" znajduje się wykres słupkowy przedstawiający wyniki procentowe kandydatów w zależności od wybranej lokalizacji.
+Dostępne są fragmentatory umożliwiające filtrowanie po województwie, rejonie oraz miejscowości. Możliwe jest wybranie kilku opcji we fragmentatorze
+jednocześnie (należy zaznaczać opcje z wciśniętym klawiszem CTRL). W zależności od wybranych filtrów generowany jest dynamicznie za pomocą miary DAX
+opis mówiący o tym, który kandydat zwyciężył w danej lokalizacji oraz podana jest jego przewaga procentowa.
+
+![Dashboard preview](4.png)
+
 ## Historia zmian
 21-30.05.2025 r. - utworzenie dashboardu "Predykcja wyników"
 
