@@ -1,6 +1,6 @@
 # Symulacja II tury wyborów prezydenckich 2025
 
-Link do pobrania projektu z OneDrive: https://1drv.ms/u/c/5acb985c73202279/EVlbtFpIWMBPoOeYEk7Jss8Bmb_sUf9J28Iod-6o8Xvnxg?e=uspFpn
+Link do pobrania projektu z OneDrive: https://1drv.ms/u/c/5acb985c73202279/EX3Kkg-8-WtLjs2g-ouBBfIB4dbwrmWJEJaoQWrFoWWnOw?e=9e2hTa
 
 Link do danych źródłowych ze strony PKW: https://wybory.gov.pl/prezydent2025/data/csv/wyniki_gl_na_kandydatow_po_gminach_csv.1747645331.zip
 
@@ -74,7 +74,7 @@ które zawierają informację na temat województw, powiatów oraz gmin z najwi�
 ------------------------------------------------------------------------------------------------------------------------
 # Simulation of the 2025 Presidential Election Second Round
 
-Download link to the project from OneDrive: https://1drv.ms/u/c/5acb985c73202279/EVlbtFpIWMBPoOeYEk7Jss8Bmb_sUf9J28Iod-6o8Xvnxg?e=uspFpn
+Download link to the project from OneDrive: https://1drv.ms/u/c/5acb985c73202279/EX3Kkg-8-WtLjs2g-ouBBfIB4dbwrmWJEJaoQWrFoWWnOw?e=9e2hTa
 
 Link to the source data from the PKW website:
 https://wybory.gov.pl/prezydent2025/data/csv/wyniki_gl_na_kandydatow_po_gminach_csv.1747645331.zip
