@@ -9,8 +9,6 @@ Link do danych źródłowych ze strony PKW: https://wybory.gov.pl/prezydent2025/
 ## Co znajdziesz w tym repozytorium?  
 - 📁 Link do pliku projektu Power BI (`.pbix`) z modelem danych i dashboardem  
 - 📊 Link do danych źródłowych (wyniki I tury z PKW w formacie „one big table”)  
-- 🧮 Przykładowe miary DAX do obliczania prognozowanych wyników  
-- 📖 Instrukcje dotyczące wykorzystania i możliwości konfiguracji symulacji (frekwencja, przepływy elektoratów, nowi wyborcy)  
 - 🖼️ Zrzuty ekranu pokazujące interfejs i przykładowe wizualizacje  
 
 ## Funkcjonalności  
@@ -70,6 +68,9 @@ Dodanie filtrowania wyników po województwach, powiatach, gminach.
 04.06.2025 r. - dodanie dynamicznego opisu na dashboardzie z wynikami II tury, który opisuje, który kandydat wygrał
 w danej lokalizacji wraz z jego przewagą procentową
 
+09.06.2024 r. - dodanie dynamicznych opisów na kartach "Karol Nawrocki - podsumowanie" oraz "Rafał Trzaskowski - podsumowanie",
+które zawierają informację na temat województw, powiatów oraz gmin z największą/najmniejszą ilością głosów oddanych na danego kandydata
+
 ------------------------------------------------------------------------------------------------------------------------
 # Simulation of the 2025 Presidential Election Second Round
 
@@ -83,8 +84,6 @@ https://wybory.gov.pl/prezydent2025/data/csv/wyniki_gl_na_kandydatow_po_gminach_
 ## What you’ll find in this repository:
 📁 Link to the Power BI project file (.pbix) containing the data model and dashboard
 📊 Link to the source data (1st round election results from PKW in a “one big table” format)
-🧮 Sample DAX measures for calculating projected results
-📖 Instructions on usage and configuration options for the simulation (turnout, voter flows, new voters)
 🖼️ Screenshots showcasing the interface and example visualizations
 
 ## Features  
@@ -130,3 +129,4 @@ Implemented filtering of results by voivodeship, county, and municipality.
 
 June 4, 2025 – Added a dynamic description on the second round results dashboard, indicating which candidate won in a given location along with their percentage lead.
 
+June 9, 2024 – added dynamic descriptions on the "Karol Nawrocki – summary" and "Rafał Trzaskowski – summary" cards, containing information about the voivodeships, counties, and municipalities with the highest/lowest number of votes cast for the given candidate.
